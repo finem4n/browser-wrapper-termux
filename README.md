@@ -1,3 +1,6 @@
+# Achtung - archived
+Moved to [my dotfiles repo](https://github.com/finem4n/dotfiles)
+
 # browser-wrapper-termux
 Simple shell wrapper for launching websites through termux android  
 Why? Because I needed a way to launch websites in [newsboat](https://github.com/newsboat/newsboat).  
